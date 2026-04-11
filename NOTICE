@@ -2,7 +2,12 @@ NOTICE
 
 This repository is a mirror of an immutable, read-only diagnostic reference.
 
+---
+
+Status
+
 This material:
+
 - Is non-canonical
 - Is interpretive only
 - Does not claim authority
@@ -13,3 +18,35 @@ This material:
 All conclusions remain the responsibility of human judgment.
 
 Any use of this material as enforcement, certification, or authority is a misuse of its intent.
+
+---
+
+File Integrity
+
+SHA-256 (PDF):
+a1f6c1ae0224dd7e85c0b0562439c5b9181b1803760a8db92c8601a56d8f6a85
+
+This hash is the canonical integrity reference for the document.
+Any reproduced or mirrored version must match this hash to be considered authentic.
+
+---
+
+Canonical Record
+
+Internet Archive:
+https://archive.org/details/read-only-evaluation-detection-tool
+
+---
+
+Scholarly Mirror
+
+Zenodo:
+https://zenodo.org/records/18262452
+
+---
+
+Finality
+
+This repository is complete and frozen.
+
+No updates, revisions, or extensions are implied or permitted.
